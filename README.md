@@ -38,7 +38,7 @@ Download or share your favorite creations!
 To get started with the AI Image Generation App, follow these steps:
 
 1. **Clone the Repository**:
-   - git clone https://github.com/qasemdf/Image-Generation-dall-e-clone.git
+   - git clone https://github.com/qasemdf/AI-Image-Generation.git
 3. **Navigate to the Project Directory**:
    - cd ai-image-generation-app
 4. **Install Dependencies:**
