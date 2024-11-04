@@ -55,7 +55,7 @@ To get started with the AI Image Generation App, follow these steps:
 ## 🌟 Connect with Me
 Feel free to reach out for feedback or collaborations!
 
-** 📖 Portfolio**:
+**📖 Portfolio**:
   - https://deanqasem.com/
-** 🏢 Linkedin**:
+**🏢 Linkedin**:
   - https://www.linkedin.com/in/deanqasem/
