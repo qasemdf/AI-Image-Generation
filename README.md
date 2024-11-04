@@ -15,7 +15,7 @@ Welcome to the **AI Image Generation App**! This innovative application allows u
 This project utilizes the following technologies:
 
 - **MERN Stack**: 
-  - **MongoDB**: Database to store user data and generated images.
+  - **MongoDB**: Database to store user data and generated image data.
   - **Express.js**: Backend framework to handle API requests.
   - **React**: Frontend library for building user interfaces.
   - **Node.js**: JavaScript runtime to run the server.
@@ -38,15 +38,15 @@ Download or share your favorite creations!
 To get started with the AI Image Generation App, follow these steps:
 
 1. **Clone the Repository**:
-   git clone https://github.com/qasemdf/Image-Generation-dall-e-clone.git
-2. **Navigate to the Project Directory**:
-   cd ai-image-generation-app
-3. **Install Dependencies:**
-   npm install
-4. Set Up Environment Variables: Create a .env file in the root directory and add your OpenAI API key:
-   OPENAI_API_KEY=your_api_key_here
-5. **Start the Development Server:**
-   npm start
+   - git clone https://github.com/qasemdf/Image-Generation-dall-e-clone.git
+3. **Navigate to the Project Directory**:
+   - cd ai-image-generation-app
+4. **Install Dependencies:**
+   - npm install
+5. Set Up Environment Variables: Create a .env file in the root directory and add your OpenAI API key:
+   - OPENAI_API_KEY=your_api_key_here
+6. **Start the Development Server:**
+   - npm start
 
 ### Notes:
 - Replace `yourusername`, `your_api_key_here`, `yourprofile`, and `yourportfolio.com` with your actual GitHub username, OpenAI API key, and social media links.
@@ -56,6 +56,6 @@ To get started with the AI Image Generation App, follow these steps:
 Feel free to reach out for feedback or collaborations!
 
 **Portfolio**
-  https://deanqasem.com/
+  - https://deanqasem.com/
 **Linkedin**
-  https://www.linkedin.com/in/deanqasem/
+  - https://www.linkedin.com/in/deanqasem/
